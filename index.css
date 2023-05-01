@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+}
+
+.facebook {
+  height: 800px;
+  padding: 20px;
+  background-color: #f0f2f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+
+.facebook .sol-taraf img {
+  height: 106px;
+  margin: -28px;
+}
+
+.facebook .sol-taraf p {
+  font-size: 28px;
+  font-weight: normal;
+  width: 500px;
+  line-height: 32px;
+  margin-top: 15px;
+}
+
+.facebook .sag-taraf {
+  width: 396px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px 15px 28px 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+
+.facebook .inputlar {
+}
+
+.facebook .input {
+  padding: 15px;
+  width: 320px;
+  border-radius: 5px;
+  border: 1px solid #dddfe2;
+  margin-left: 9px;
+  margin-top: 9px;
+}
+
+.facebook .buton1 {
+  width: 97%;
+  padding: 9px;
+  border-radius: 5px;
+  border: 1px;
+  background-color: #1877f2;
+  color: #f0f2f5;
+  font-weight: 900;
+  font-size: 20px;
+  margin-top: 9px;
+  margin-left: 9px;
+}
+
+.facebook .etiket a {
+  color: #1877f2;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.facebook .alt-çizgi hr {
+  border-bottom: 1px solid #dadde1;
+  margin: 20px 16px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.facebook .buton2 {
+  display: flex;
+  justify-content: center;
+}
+
+.facebook .buton2 button {
+  background-color: #42b72a;
+
+  padding: 0 12px;
+  border-radius: 6px;
+  border: none;
+  color: #fff;
+  font-size: 17px;
+  line-height: 48px;
+}
+
+.en-alt-bolum p {
+  text-align: center;
+}
+.en-alt-bolum a {
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+}
